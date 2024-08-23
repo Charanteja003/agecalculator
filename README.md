@@ -1,0 +1,1 @@
+THIS Project is an Age Calculator  with an input of a date. If we click on the date input, we can choose the date of our birthday and if we click on Calculate Age, you can see the age is calculated based on tthe date and saying your age 
